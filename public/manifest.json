@@ -9,12 +9,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "../public/img/cloud.png",
+      "src": "./img/cloud.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "../public/img/cloud.png",
+      "src": "./img/cloud.png",
       "sizes": "512x512",
       "type": "image/png"
     }

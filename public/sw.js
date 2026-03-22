@@ -1,5 +1,5 @@
 const CACHE = "climalook-v1";
-const ASSETS = ["/", "../public/index.html", "../public/manifest.json"];
+const ASSETS = ["/", "./index.html", "./manifest.json"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(
