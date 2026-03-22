@@ -1,0 +1,24 @@
+{
+  "name": "ClimaLook",
+  "short_name": "ClimaLook",
+  "description": "Clima + Look do Dia — veja o tempo e saiba o que vestir",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "../public/img/cloud.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "../public/img/cloud.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["tempo", "moda", "shopping"],
+  "lang": "pt-BR"
+}
